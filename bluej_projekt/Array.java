@@ -11,14 +11,17 @@ public class Array {
     // übergebenen int Array
     public static int arraySum(int[] arr) {
         int rv = 0;
-        for(int i = 0; i  > arr.length; i++);
-        //i=>array3
+        for(int i = 0; i  < arr.length; i++){
+        
+            rv += arr[i];
+        }
         return rv;
     }
 
     // hier wird das größte Element des Arrays gesucht
     public static int arrayMax(int[] arr) {
         int rv = Integer.MIN_VALUE;
+        
         return rv;
     }
 
