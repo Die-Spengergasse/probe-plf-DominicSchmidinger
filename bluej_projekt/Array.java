@@ -22,7 +22,7 @@ public class Array {
     public static int arrayMax(int[] arr) {
         int rv = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++){
-            
+            if (arr[i] > rv);
         }
         return rv;
     }
