@@ -11,7 +11,7 @@ public class Array {
     // übergebenen int Array
     public static int arraySum(int[] arr) {
         int rv = 0;
-        
+        array = new int[0] 
         //i=>array3
         return rv;
     }
