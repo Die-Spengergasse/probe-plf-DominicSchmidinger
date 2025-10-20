@@ -10,6 +10,7 @@ public class Array {
     // Der gesuchte "RV" (return-value) ist hier die Summe aller Zahlen in dem
     // übergebenen int Array
     public static int arraySum(int[] arr) {
+        
         int rv = 0;
         return rv;
     }
